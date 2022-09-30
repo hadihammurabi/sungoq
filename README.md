@@ -1,3 +1,6 @@
+> Move to
+> https://github.com/sungoq/server
+
 # sungoq
 Queue engine made with Go
 
